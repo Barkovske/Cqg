@@ -1,0 +1,1 @@
+python replace.py config.txt text.txt
